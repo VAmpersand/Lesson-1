@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        print("My name is Danil\nI'm iOS developer")
+        print("My name is Danil Demchenko\nI'm iOS developer")
     }
 
 
